@@ -1,0 +1,13 @@
+.header {
+    width: 100%;
+    background-color: $color-primary-dark;
+    border-bottom: 1px solid black;
+    // margin: 10rem auto;
+    font-weight: bold;
+    padding-left: 1rem;
+
+    span {
+        padding: 2rem;
+        font-size: 2rem ;            
+    }
+}

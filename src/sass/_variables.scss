@@ -1,0 +1,11 @@
+$color-primary: #87B5B5;
+$color-primary-light: #C0D8D8;
+$color-primary-dark: #4AA3A3;
+
+@mixin center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    
+}
